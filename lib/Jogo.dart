@@ -74,8 +74,9 @@ class _JogoState extends State<Jogo> {
               "Escolha do App",
               textAlign: TextAlign.center,
               style: TextStyle(
-                fontSize: 20,
-                fontWeight: FontWeight.bold
+                  color: Colors.blue,
+                  fontSize: 20,
+                  fontWeight: FontWeight.bold
               ),
             ),
           ),
@@ -86,8 +87,9 @@ class _JogoState extends State<Jogo> {
               this._mensagem,
               textAlign: TextAlign.center,
               style: TextStyle(
-                fontSize: 20,
-                fontWeight: FontWeight.bold
+                  color: Colors.blue,
+                  fontSize: 20,
+                  fontWeight: FontWeight.bold
               ),
             ),
           ),
